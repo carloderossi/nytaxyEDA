@@ -4,6 +4,8 @@
 
 This project involves an exploratory data analysis (EDA) of the NYC Taxi Trip Duration dataset. The goal is to analyze various factors affecting taxi trip durations in New York City and uncover insightful patterns and trends.
 
+![NYC Taxi Geomap](./images/ALL_nyc_taxy_geomap.png)
+
 ## Dataset
 
 The dataset used in this analysis contains detailed information about taxi trips in NYC, including:
